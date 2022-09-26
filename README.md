@@ -7,7 +7,7 @@
 ---
 🔗 &nbsp;**Connect with me**
 <p align="left"  style="background:#EFEFEF;padding:10px 0px 10px 10px">
-  <a href="https://dev.to/heinlinaung" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+  <a href="https://dev.to/heinlinaung" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="heinlinaung" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/hein-lin-aung/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heinlinaung" height="30" width="40" /></a>
   <a href="https://500px.com/p/iamaugusth" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/500px_vector_logo.svg" alt="heinlinaung" height="30" width="40" /></a>
 </p>
