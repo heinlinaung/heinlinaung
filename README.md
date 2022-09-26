@@ -3,16 +3,19 @@
 <img src="assets/programmer.svg" align="center" width="100">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E9E9E9&vCenter=true&width=436&lines=I+am+Hein+Lin+Aung+%5Baka+augusth%5D)](https://git.io/typing-svg)
-> I'm a software engineer who mainly works on Back End services. Also trying to be a DevOps engineer. Nice to meet you!
 ---
-🔗 &nbsp;**Connect with me**
+```diff
+I'm a software engineer who mainly works on Back End services. Also trying to be a DevOps engineer. Nice to meet you!
+```
+
+🔗 **Connect with me**
 <p align="left"  style="background:#EFEFEF;padding:10px 0px 10px 10px">
-  <a href="https://dev.to/heinlinaung" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="heinlinaung" height="30" width="40" /></a>
+  <a href="https://dev.to/heinlinaung" target="blank"><img align="center" src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="heinlinaung" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/hein-lin-aung/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heinlinaung" height="30" width="40" /></a>
   <a href="https://500px.com/p/iamaugusth" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/500px_vector_logo.svg" alt="heinlinaung" height="30" width="40" /></a>
 </p>
 
-🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
+🛠️ Languages and Tools
 <p align="left" style="background:#EFEFEF;padding:10px 0px 10px 10px">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;
