@@ -1,8 +1,6 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 <img src="assets/programmer.svg" align="center" width="100">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E9E9E9&vCenter=true&width=436&lines=I+am+Hein+Lin+Aung+%5Baka+augusth%5D)](https://git.io/typing-svg)
 ---
 ```diff
 I'm a software engineer who mainly works on Back End services. Also trying to be a DevOps engineer. Nice to meet you!
