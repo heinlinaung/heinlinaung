@@ -1,9 +1,9 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 <img src="assets/programmer.svg" align="center" width="100">
-```I'm a software engineer who mainly works on Back End services. Also trying to be a DevOps engineer. Nice to meet you!```
+| I'm a software engineer who mainly works on Back End services. Also trying to be a DevOps engineer. Nice to meet you!
 <br/>
-----
+
 🔗 **Connect with me**
 <p align="left"  style="background:#EFEFEF;padding:10px 0px 10px 10px">
   <a href="https://dev.to/heinlinaung" target="blank"><img align="center" src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="heinlinaung" height="30" width="40" /></a>
