@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi there <a href="https://www.gautamkrishnar.com/"></a>
 
 <img src="assets/programmer.svg" align="center" width="100">
 <p>I'm a software engineer who mainly works on Back End services. Also trying to be a DevOps engineer. Nice to meet you!</p>
